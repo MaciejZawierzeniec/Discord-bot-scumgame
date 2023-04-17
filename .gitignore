@@ -1,0 +1,5 @@
+*.env
+.idea
+**/__pycache__/
+discord.txt
+raid_events.db
